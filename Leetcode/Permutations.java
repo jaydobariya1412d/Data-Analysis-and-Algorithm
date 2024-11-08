@@ -1,4 +1,4 @@
-class Solution {
+class Permutations {
     private List<List<Integer>> ans = new ArrayList<>();
     private List<Integer> t = new ArrayList<>();
     private boolean[] vis;

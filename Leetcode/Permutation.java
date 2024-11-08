@@ -1,4 +1,4 @@
-class Permutations {
+class Permutation {
     private List<List<Integer>> ans = new ArrayList<>();
     private List<Integer> t = new ArrayList<>();
     private boolean[] vis;
